@@ -1,8 +1,4 @@
-M1 STIC G1
-
-Abderraouf Bensam
-
-binome : Assadi Youcef
+Highly motivated Data Scientist and Software Developer
 
 <!---
 rf1801/rf1801 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
